@@ -178,6 +178,12 @@ hr.star-dark:after {
 	}
 }
 
+@media (max-width: 1200px){
+	#mainNav .nav-link{
+		font-size: .8rem;
+	}
+}
+
 header.masthead {
   padding-top: 9rem;
   padding-bottom: 0rem;

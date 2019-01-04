@@ -178,6 +178,12 @@ hr.star-dark:after {
 	}
 }
 
+@media (max-width: 1200px){
+	#mainNav .nav-link{
+		font-size: .8rem;
+	}
+}
+
 #about.section h1{
 	margin-top: 10rem;
 }
